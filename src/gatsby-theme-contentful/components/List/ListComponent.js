@@ -2,6 +2,11 @@ import React from 'react';
 
 const officers = [
   {
+    email: 'Interested candidates should inquire in these positions',
+    position: 'Officers Not Listed are Vacant',
+    name: 'Contact the Seneschal at seneschal@baronyof1000eyes.org',
+  },
+  {
     email: 'archery@baronyof1000eyes.org',
     position: 'Archery Marshal',
     name: 'Robert the Lost',
@@ -34,11 +39,10 @@ const officers = [
   //   email: 'deputy.exchequer@baronyof1000eyes.org',
   //   position: 'Deputy Exchequer',
   // },
-  {
-    email: 'herald@baronyof1000eyes.org',
-    position: 'Herald',
-    name: 'Vacant - Looking for candidate',
-  },
+  // {
+  //   email: 'herald@baronyof1000eyes.org',
+  //   position: 'Herald',
+  // },
   {
     email: 'knight.marshal@baronyof1000eyes.org',
     position: 'Knight Marshal',
@@ -65,7 +69,7 @@ const officers = [
      {
        email: 'quartermaster@baronyof1000eyes.org',
        position: 'Quartermaster',
-       name: 'Sheelaegh',
+       name: 'Sheelaegh Mac Cathail',
      },
   // {
   //   email: 'deputy.quartermaster@baronyof1000eyes.org',
@@ -94,7 +98,7 @@ const officers = [
   //   email: 'deputy2nd.seneschal@baronyof1000eyes.org',
   //   position: 'Deputy Seneschal',
   //   name: 'Yuri the Yakslapper',
-  },
+  // },
   // {
   //   email: 'smo@baronyof1000eyes.org',
   //   position: 'Social Media Officer',
@@ -107,11 +111,10 @@ const officers = [
   //   email: 'deputy.thrown.weapons@baronyof1000eyes.org',
   //   position: 'Deputy Thrown Weapons Marshal',
   // },
-  {
-    email: 'webminister@baronyof1000eyes.org',
-    position: 'Web Minister',
-    name: 'Traveling Bard',
-  },
+  // {
+  //   email: 'webminister@baronyof1000eyes.org',
+  //   position: 'Web Minister',
+  // },
   // {
   //   email: 'deputy.web.minister@baronyof1000eyes.org',
   //   position: 'Deputy Web Minister',
